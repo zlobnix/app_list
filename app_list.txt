@@ -1,0 +1,5 @@
+flatpack
+mission center
+flatseal
+warp
+anydesk
