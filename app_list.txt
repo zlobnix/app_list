@@ -1,4 +1,7 @@
 flatpack
+telegram
+chrome
+discord
 mission center
 flatseal
 warp
@@ -10,3 +13,4 @@ glances
 transsmission
 plex media server
 jellyfin media server
+sudo snap install winbox
