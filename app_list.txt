@@ -15,4 +15,3 @@ glances
 transsmission
 plex media server
 jellyfin media server
-sudo snap install winbox
