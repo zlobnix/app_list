@@ -4,3 +4,9 @@ flatseal
 warp
 anydesk
 portproton
+neofetch
+fastfetch
+glances
+transsmission
+plex media server
+jellyfin media server
