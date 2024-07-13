@@ -3,6 +3,8 @@ telegram
 chrome
 discord
 mission center
+sublime
+visual studio code
 flatseal
 warp
 anydesk
