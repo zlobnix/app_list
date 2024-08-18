@@ -3,6 +3,7 @@ telegram
 chrome
 discord
 mission center
+resources
 sublime
 visual studio code
 flatseal
