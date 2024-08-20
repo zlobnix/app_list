@@ -3,7 +3,7 @@ telegram
 chrome
 discord
 mission center
-resources
+resources  (flatpak install flathub net.nokyan.Resources)
 sublime
 visual studio code
 flatseal
