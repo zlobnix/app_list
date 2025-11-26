@@ -16,3 +16,4 @@ glances
 transsmission
 plex media server
 jellyfin media server
+Mango Juice
